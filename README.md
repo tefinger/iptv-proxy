@@ -13,7 +13,6 @@ M3U service convert an iptv m3u file into a web proxy server.
 
 It's transform all the original tracks to an new url pointing on the proxy.
 
-
 ### Xtream code client api
 
 proxy on Xtream code (client API)
